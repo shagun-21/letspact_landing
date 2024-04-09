@@ -32,7 +32,7 @@ body {
   height: auto;
   min-height: 100vh;
   width: 100vw;
-  background: url("../images/General/Bg-app.png");
+  /* background: url("../images/General/Bg-app.png"); */
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;

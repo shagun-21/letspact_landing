@@ -117,6 +117,13 @@ a:hover{
   letter-spacing: 0em;
   color: #fdfdfd;
 }
+.head1-letspact-span{
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0em;
+  color: #0ffd33;
+}
 .head2 {
   font-size: 36px;
   font-weight: 700;
