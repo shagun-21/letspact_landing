@@ -67,19 +67,6 @@ footer ul li{
   float: left;
   margin:20px 50px;
 }
-
-.socialLinks{
-  padding:3%;
-  border-radius: 50%;
-  border: solid 2px transparent;
-  color:white !important;
-}
-
-.socialLinks:hover, footer a:hover{
-  color: var(--dark-green) !important;
-}
-
-
 footer a{
   color:white !important;
   text-decoration: none;
